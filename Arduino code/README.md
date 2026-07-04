@@ -1,5 +1,5 @@
 # ARDUINO CODE
-'''cpp
+```cpp
 int sw=5;
 int led=4;
 void setup()
@@ -24,4 +24,4 @@ void loop()
   delay(1000);
   
 }
-'''
+```
